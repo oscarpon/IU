@@ -1,0 +1,18 @@
+#menu{
+  padding: 0
+}
+#menu li{
+  display: inline;
+}
+#menu li a{
+  font-family: verdana;
+  font-size: 12px;
+  text-decoration: none;
+  float: left;
+  padding: 50px;
+  background-color: #50b572;
+  color: #ffff;
+}
+#menu li a:hover{
+  background-color: #000000;
+}
